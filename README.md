@@ -28,6 +28,14 @@ Programming Languages:
 •	Face Recognition System- Developed a face recognition system leveraging deep learning and triplet loss to achieve high-accuracy face verification.
 
 
+🔗 Connect With Me:
+
+•📧 Email: priyadarshinidebamita@gmail.com
+
+•📚 LinkedIn: https://www.linkedin.com/in/debamita-priyadarshini-1b7841296?
+
+
+
 
 <!---
 Debamita-04/Debamita-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
